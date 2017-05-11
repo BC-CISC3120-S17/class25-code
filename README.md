@@ -1,4 +1,4 @@
-# class27-code
+# class25-code
 ## WebSocketsScramble
 We talked about this a bit in class; here's the code for your study. (Don't waste a lot of time worrying about the game logic; that's not the point. Focus on the WebSockets interactions.)
 
